@@ -1,0 +1,8 @@
+.header-bg{
+    background-image: linear-gradient(269deg, #CB7CF7 0%, #5CA1F1 100%);
+}
+
+.testimonial-bg{
+ background-image: linear-gradient(270deg, rgba(24,9,97,0.74) 0%, #1780DC 100%);
+border: 1px solid #979797;
+}
